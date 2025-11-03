@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shinoakito/shinoakito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br>![](https://komarev.com/ghpvc/?username=shinoakito&color=e0b98b&style=plastic&label=pancakes)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img width="256" height="256" alt="IMG_2865" src="https://files.catbox.moe/aqq3kp.png" />
+<br>
+
+<br>${\textsf{\color{#db894f} dev⠀⠀/⠀⠀arti⠀⠀⠀⠀17yo⠀⠀mlm}}$
+<br>${\textsf{\color{#5da691} w2i⠀⠀+⠀⠀c*h enc⠀⠀⠀⠀int freely !}}$
+<br><sub> ac: xulipz, multishipper ok?⠀⠀</sub>
+
+</p>
